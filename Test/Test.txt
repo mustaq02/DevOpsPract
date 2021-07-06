@@ -2,4 +2,11 @@ This is for master
 This is for ver1.0
 change in master for rebase
 This is for master second commit
+<<<<<<< HEAD
 This is for ver1.0
+=======
+This is for ver1.0 adding
+This is for ver1.0
+This is for ver1.1
+adding for v1.1
+>>>>>>> 71d22bb (Added from v1.1 to v1.0)
