@@ -8,5 +8,10 @@ This is for ver1.0
 This is for ver1.0 adding
 This is for ver1.0
 This is for ver1.1
+
 adding for v1.1
+<<<<<<< HEAD
 >>>>>>> 71d22bb (Added from v1.1 to v1.0)
+=======
+
+>>>>>>> 66fd3fe (Added for v1.1)
