@@ -14,5 +14,10 @@ adding for v1.1
 >>>>>>> 71d22bb (Added from v1.1 to v1.0)
 =======
 
+<<<<<<< HEAD
 >>>>>>> 66fd3fe (Added for v1.1
 This is the change from remore System)
+=======
+>>>>>>> 66fd3fe (Added for v1.1)
+This is the change from local system
+>>>>>>> 35d6799c461d7d13b13e21ed0cc397870320aad4
